@@ -3,7 +3,7 @@
   "displayName": "AMOLED Theme",
   "description": "AMOLED Theme For Visual Studio Code",
   "publisher": "mananatheone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.82.0"
   },

@@ -1,3 +1,4 @@
 # Change Log
 
-first version omg
+## v1.0.1
+ - Changed Some Element's Colors and Fixed Some Issues.
