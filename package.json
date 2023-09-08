@@ -1,0 +1,32 @@
+{
+  "name": "amoled-theme",
+  "displayName": "AMOLED Theme",
+  "description": "AMOLED Theme For Visual Studio Code",
+  "publisher": "mananatheone",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "icon":"icon.png",
+  "repository": {
+    "url": ""
+  },
+  "keywords": [
+    "theme", "dark theme", "dark", 
+    "mananatheone", "manana", "amoled", 
+    "pure black", "black", "red", "rose",
+    "rose red", "minimalist"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rose Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rose Red-color-theme.json"
+      }
+    ]
+  }
+}
